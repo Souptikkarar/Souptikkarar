@@ -27,7 +27,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-Connect-312E81?style=flat-square&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="mailto:souptikkarar@gmail.com">
+<a href="souptikkarar@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact-4C1D95?style=flat-square&logo=gmail&logoColor=white" />
 </a>
 
